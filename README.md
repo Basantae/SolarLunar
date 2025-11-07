@@ -48,7 +48,7 @@ Then open **[http://localhost:5173](http://localhost:5173)** in your browser.
 * **React** — UI Library
 * **Vite** — Build tool and dev server
 * **JavaScript (ES6+)**
-* **CSS Variables**
+* **Tailwind CSS **
 
 
 ---

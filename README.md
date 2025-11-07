@@ -75,7 +75,7 @@ const toggleTheme = () => {
 ## 🤝 Contributing
 
 Contributions are welcome!
-If you have suggestions or improvements, feel free to **fork** this repository and submit a **pull request**.
+If you have suggestions or improvements, feel free to **fork** this repository and submit a **pull request**...
 
 ---
 

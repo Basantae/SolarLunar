@@ -81,7 +81,7 @@ If you have suggestions or improvements, feel free to **fork** this repository a
 
 ## 📜 License
 
-This project is open-source and available under the **MIT License**.
+This project is open-source .
 
 ---
 
